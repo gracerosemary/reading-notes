@@ -32,6 +32,7 @@ Languages
 > Intermediate CSS
 > Intermediate JavaScript
 > jQuery Events and DOM Manipulation
+[Reading #1: SMACCS and Responsive Web Design](class-00)
 
 ## Code 401 - Advanced Software Development
 ### Environments and Tools
