@@ -8,6 +8,6 @@ Description: Keep track of your observations and questions from the reading assi
 (tested in)
 
 ## Code 301 - Intermediate Software Development
-[Responsive Web Design](class-00.md)
-[JQUERY](pairprogramming.md)
-[Mustache & Flexbox](Mustache-and-Flexbox.md)
+[Responsive Web Design](class-00.md)  
+[JQUERY](pairprogramming.md)  
+[Mustache & Flexbox](Mustache-and-Flexbox.md)  
