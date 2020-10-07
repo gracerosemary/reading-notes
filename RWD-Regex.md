@@ -1,9 +1,8 @@
-## [Grid Garden Game]([https://cssgridgarden.com/](https://cssgridgarden.com/))
+## [Grid Garden Game](https://cssgridgarden.com/)
 
 Completed!
 
-## [A Complete Guide to Grid]([https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/))
-
+## [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 ### Important Terminology:
 
 - Grid Container: element on which `display: grid` is applied. It's the direct parent element of all the grid items.
@@ -19,7 +18,7 @@ Completed!
 - function to set boundaries: to set a column to be 1fr, but shrink no further than 200px →  `grid-template-columns: 1fr minmax(200px, 1fr)`
 - `repeat()` function: making 10 columns → `grid-template-columns: repeat(10, 1fr)`
 
-## [Common Responsive Layouts with CSS Grid]([https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)]
+## [Common Responsive Layouts with CSS Grid](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
 
 - images stretching out of proportion can be fixed by `object-fit: cover;` (but it causes cropping)
 
@@ -30,7 +29,7 @@ Demos:
 3. [Card Layout]([https://card-layout.glitch.me/](https://card-layout.glitch.me/))
 4. [The Holy Grail Layout (with no set heights!)]([https://grid-grail.glitch.me/](https://grid-grail.glitch.me/)]
 
-## [Regex tutorial — A quick cheatsheet by examples]([https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285))
+## [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 
 ### Basic topics
 
