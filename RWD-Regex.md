@@ -24,10 +24,10 @@ Completed!
 
 Demos: 
 
-1. [Large image followed by articles]([https://grid-cats.glitch.me/](https://grid-cats.glitch.me/))
-2. [The Full Page Image Gallery]([https://cat-grid.glitch.me/](https://cat-grid.glitch.me/))
-3. [Card Layout]([https://card-layout.glitch.me/](https://card-layout.glitch.me/))
-4. [The Holy Grail Layout (with no set heights!)]([https://grid-grail.glitch.me/](https://grid-grail.glitch.me/)]
+1. [Large image followed by articles](https://grid-cats.glitch.me/)
+2. [The Full Page Image Gallery](https://cat-grid.glitch.me/)
+3. [Card Layout](https://card-layout.glitch.me/)
+4. [The Holy Grail Layout (with no set heights!)](https://grid-grail.glitch.me/)
 
 ## [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 
