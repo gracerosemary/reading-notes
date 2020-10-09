@@ -12,3 +12,4 @@ Description: Keep track of your observations and questions from the reading assi
 [JQUERY](pairprogramming.md)  
 [Mustache & Flexbox](Mustache-and-Flexbox.md)  
 [Responsive Web Design & Regex](RWD-Regex.md)
+[Heroku Deployment](heroku.md)
