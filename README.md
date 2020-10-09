@@ -11,5 +11,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Responsive Web Design](class-00.md)  
 [JQUERY](pairprogramming.md)  
 [Mustache & Flexbox](Mustache-and-Flexbox.md)  
-[Responsive Web Design & Regex](RWD-Regex.md)
-[Heroku Deployment](heroku.md)
+[Responsive Web Design & Regex](RWD-Regex.md)  
+[Heroku Deployment](heroku.md)  
