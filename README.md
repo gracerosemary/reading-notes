@@ -16,3 +16,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Node, Express, APIs](Node-Express-APIs.md)  
 [APIs](APIs.md)    
 [SQL](SQL.md)  
+[Functional Programming](functional_programming.md)  
