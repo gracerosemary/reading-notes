@@ -55,7 +55,7 @@ greeting();
     - LIFO: last in, first out
     - last function getting pushed to the stack is the first to return
 
-    ![call stack storage]([https://cdn-media-1.freecodecamp.org/images/QgR2uIk7tW0YNz0Xm8g0jAPeRFI0e4sCejsv](https://cdn-media-1.freecodecamp.org/images/QgR2uIk7tW0YNz0Xm8g0jAPeRFI0e4sCejsv))  
+    ![call stack storage](https://cdn-media-1.freecodecamp.org/images/QgR2uIk7tW0YNz0Xm8g0jAPeRFI0e4sCejsv)  
 
     ### Temporarily Store
 
@@ -83,7 +83,7 @@ greeting();
 
     ## [JavaScript error messages && debugging](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)  
 
-    <img src="[https://miro.medium.com/max/1000/1*nKJJY1hD3QmbyCNtaafANA.jpeg](https://miro.medium.com/max/1000/1*nKJJY1hD3QmbyCNtaafANA.jpeg)" alt="cool trees" width="200"/> 
+    <img src="https://miro.medium.com/max/1000/1*nKJJY1hD3QmbyCNtaafANA.jpeg" alt="cool trees" width="200"/> 
 
     → [Click here for more photography by Yannick Pulver 😲](https://unsplash.com/@yanu)  
 
