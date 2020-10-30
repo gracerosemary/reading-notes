@@ -26,20 +26,24 @@ greeting();
 ```
 
 1. `greeting()` is added to the call stack
+    
     Call stack list: 
     - greeting
 2. functions within `greeting()` are executed
 3. `sayHi()` is added to the call stack
+    
     Call stack list: 
     - sayHi
     - greeting
 4. functions within `sayHi()` are executed
 5. return execution to the line that invoked `sayHi()` and continue with the rest of the `greeting()`function execution
 6. delete `sayHi()` function from call stack list
+    
     Call stack list:
     - greeting
 7. if everything inside `greeting()` function has been executed, then return to its invoking line to continue executing the rest of the code
 8. delete `greeting()` function from call stack list
+    
     Call stack list:
     - empty
 
