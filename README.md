@@ -19,4 +19,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Functional Programming](functional_programming.md)  
 [Call Stack](callstack.md)  
 [EJS](EJS.md)  
-[EJS Partials](EJSpartials.md)  
+[EJS Partials](EJSpartials.md)    
+[Update/Delete](formdata.md)  
