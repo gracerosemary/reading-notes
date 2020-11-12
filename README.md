@@ -22,3 +22,4 @@ Description: Keep track of your observations and questions from the reading assi
 [EJS Partials](EJSpartials.md)    
 [Update/Delete](formdata.md)  
 [Database Normalization](dbnormal.md)  
+[Project Ideas](projectideas.md)  
