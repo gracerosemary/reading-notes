@@ -23,3 +23,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Update/Delete](formdata.md)  
 [Database Normalization](dbnormal.md)  
 [Project Ideas](projectideas.md)  
+[Diversity & Inclusion](diversity.md)  
