@@ -16,7 +16,7 @@
 - Even when women get into the field, they have to overcome a lot more obstacles due to the field being dominated by men
 - Women afre often less likely to stay in the field than their male counterparts (45% more likely)
 
-### (Why diversity matters to your tech company)[https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/]   
+### [Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)  
 - Efforts are most successfuly when a company's leadership is truly invested in learning and understanding why diversity matters
 - "Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it." - Scott Page
 - Companies that are made up of diverse teams are smarter and more creative --> more profits
