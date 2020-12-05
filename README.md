@@ -26,3 +26,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Diversity & Inclusion](diversity.md)  
 
 ## Code 401 - Advanced Software Development
+[Pain & Big O](401-01.md)  
