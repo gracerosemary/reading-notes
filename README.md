@@ -29,3 +29,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Pain & Big O](401-01.md)  
 [Testing and Modules](401-02.md)  
 [FileIO & Exceptions](401-03.md)  
+[Classes/Objects, Thinking Recursively, Pytest Fixtures/Coverage](401-04.md)  
