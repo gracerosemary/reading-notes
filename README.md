@@ -30,3 +30,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Testing and Modules](401-02.md)  
 [FileIO & Exceptions](401-03.md)  
 [Classes/Objects, Thinking Recursively, Pytest Fixtures/Coverage](401-04.md)  
+[Linked Lists](401-05.md)  
