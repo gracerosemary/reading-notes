@@ -31,3 +31,4 @@ Description: Keep track of your observations and questions from the reading assi
 [FileIO & Exceptions](401-03.md)  
 [Classes/Objects, Thinking Recursively, Pytest Fixtures/Coverage](401-04.md)  
 [Linked Lists](401-05.md)  
+[Game of Greed 1](401-06.md)  
