@@ -33,4 +33,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Linked Lists](401-05.md)  
 [Game of Greed 1](401-06.md)  
 [Global and Nonlocal Statements](401-07.md)  
-[Game of Greed 4 - List Comprehension](401-08.md)  
+[Game of Greed 3 - List Comprehension](401-08.md)  
