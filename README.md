@@ -35,3 +35,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Game of Greed 2 - Global and Nonlocal Statements](401-07.md)  
 [Game of Greed 3 - List Comprehension](401-08.md)  
 [Game of Greed 4 - Dunder & Probability](401-09.md)  
+[Stacks and Queues](401-10.md)  
