@@ -37,3 +37,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Game of Greed 4 - Dunder & Probability](401-09.md)  
 [Stacks and Queues](401-10.md)  
 [NumPy](401-11.md)  
+[Pandas](401-12.md)  
