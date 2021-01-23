@@ -38,3 +38,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Stacks and Queues](401-10.md)  
 [NumPy](401-11.md)  
 [Pandas](401-12.md)  
+[Linear Regression](401-13.md)  
