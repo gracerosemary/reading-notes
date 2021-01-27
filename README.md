@@ -39,3 +39,4 @@ Description: Keep track of your observations and questions from the reading assi
 [NumPy](401-11.md)  
 [Pandas](401-12.md)  
 [Linear Regression](401-13.md)  
+[Matplotlib](401-14.md)  
