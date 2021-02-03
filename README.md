@@ -41,3 +41,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Linear Regression](401-13.md)  
 [Matplotlib](401-14.md)    
 [Trees](401-15.md)  
+[Web Scraping](401-17.md)  
