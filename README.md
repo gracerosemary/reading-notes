@@ -43,4 +43,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Trees](401-15.md)  
 [Web Scraping](401-17.md)  
 [Cryptography](401-18.md)    
-[Automation](401-19.md)  
+[Automation](401-19.md)    
+[Django](401-26.md)  
