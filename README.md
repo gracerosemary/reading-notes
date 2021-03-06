@@ -45,4 +45,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Cryptography](401-18.md)    
 [Automation](401-19.md)    
 [Django](401-26.md)  
-[Django Models](401-27.md)  
+[Django Models](401-27.md)   
+[Django Forms](401-28.md)  
