@@ -47,4 +47,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Django](401-26.md)  
 [Django Models](401-27.md)   
 [Django Forms](401-28.md)  
-[Django Custom User](401-29.md)  
+[Django Custom User](401-29.md)    
+[Hash Tables](401-30.md)  
