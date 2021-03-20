@@ -50,3 +50,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Django Custom User](401-29.md)    
 [Hash Tables](401-30.md)   
 [Docker](401-31.md)  
+[Permissions]
