@@ -49,5 +49,5 @@ Description: Keep track of your observations and questions from the reading assi
 [Django Forms](401-28.md)  
 [Django Custom User](401-29.md)    
 [Hash Tables](401-30.md)   
-[Docker](401-31.md)  
-[Permissions]
+[Docker](401-31.md)    
+[Permissions](401-32.md)  
