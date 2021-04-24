@@ -60,3 +60,4 @@ Description: Keep track of your observations and questions from the reading assi
 [React III](401/401-39.md)  
 [Next.js](401/401-41.md)  
 [Pythonism](401/401-42.md)  
+[Ethics](401/401-43.md)  
