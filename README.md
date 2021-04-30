@@ -61,3 +61,4 @@ Description: Keep track of your observations and questions from the reading assi
 [Next.js](401/401-41.md)  
 [Pythonism](401/401-42.md)  
 [Ethics](401/401-43.md)  
+[Open Source](401/401-44.md)  
